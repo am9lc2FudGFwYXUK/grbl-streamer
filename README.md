@@ -1,2 +1,2 @@
 # grbl-streamer
-cmdline grml gcode streamer 
+cmdline grbl gcode streamer 
