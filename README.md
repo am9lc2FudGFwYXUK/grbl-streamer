@@ -3,7 +3,7 @@ cmdline grbl gcode streamer
 
 Compile: g++ -o grbl_streamer grbl_streamer.cpp
 
-
+```
 Usage: ./grbl_streamer [options]
 Options:
   -S, --serial <device>    Serial device (e.g., /dev/ttyUSB0)
@@ -13,5 +13,5 @@ Options:
   -h, --help               Display this help message
 
 Example: ./grbl_streamer -S /dev/ttyUSB0 -f example.gcode -b 115200 -v
-
+```
 
