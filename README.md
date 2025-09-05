@@ -15,3 +15,5 @@ Options:
 Example: ./grbl_streamer -S /dev/ttyUSB0 -f example.gcode -b 115200 -v
 ```
 
+Hey if you are downloading it and using it and run into issues, please leave details of your problem. I would be glad to look at them. The license is MIT.
+
